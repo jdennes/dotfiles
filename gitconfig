@@ -1,0 +1,24 @@
+[user]
+    name = James Dennes
+    email = jdennes@gmail.com
+    signingkey = 5073FB36
+[github]
+    user = jdennes
+[credential]
+    helper = osxkeychain
+[core]
+    editor = vim
+[fetch]
+    prune = true
+[alias]
+    co = checkout
+[init]
+    defaultBranch = main
+[help]
+    autocorrect = 1
+[gpg]
+    program = /usr/local/bin/gpg
+[commit]
+    gpgsign = true
+[maintenance]
+    repo = /Users/jdennes/github/github
