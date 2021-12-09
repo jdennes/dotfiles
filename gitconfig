@@ -4,8 +4,6 @@
     signingkey = 5073FB36
 [github]
     user = jdennes
-[credential]
-    helper = osxkeychain
 [core]
     editor = vim
 [fetch]
