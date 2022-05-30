@@ -14,8 +14,6 @@
     defaultBranch = main
 [help]
     autocorrect = 1
-[gpg]
-    program = /usr/local/bin/gpg
 [commit]
     gpgsign = true
 [maintenance]
