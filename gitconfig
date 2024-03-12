@@ -1,7 +1,6 @@
 [user]
     name = James Dennes
     email = jdennes@gmail.com
-    signingkey = 5073FB36
 [github]
     user = jdennes
 [core]
@@ -14,7 +13,5 @@
     defaultBranch = main
 [help]
     autocorrect = 1
-[commit]
-    gpgsign = true
 [maintenance]
     repo = /Users/jdennes/github/github
